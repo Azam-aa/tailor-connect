@@ -13,3 +13,9 @@
     # git add your-file.txt
     ```
     *(The staging area prepares changes to be included in the next commit.)*
+
+3.  **Commit your staged changes (create a snapshot of your project's state):**
+    ```bash
+    git commit -m "Initial commit of project files"
+    # The message in quotes should be a concise description of the changes.
+    ```
