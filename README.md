@@ -38,3 +38,8 @@
     * **Purpose:** Downloads an existing Git repository from a remote source (like GitHub) to your local machine.
     * **Example:** `git clone https://github.com/Azam-aa/tailor-connect.git`
     * **When to use:** To get a copy of an existing project.
+ 
+* **`git pull`**
+    * **Purpose:** Fetches the latest changes from the remote repository and merges them into your current local branch.
+    * **When to use:** To update your local copy with changes made elsewhere.
+
