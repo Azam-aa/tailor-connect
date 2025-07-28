@@ -33,3 +33,8 @@
     # '-u origin main' sets up the 'main' branch on 'origin' as the default upstream branch.
     # Subsequent pushes can just be 'git push'. (Note: 'main' is now preferred over 'master'.)
     ```
+
+* **`git clone [repository URL]`**
+    * **Purpose:** Downloads an existing Git repository from a remote source (like GitHub) to your local machine.
+    * **Example:** `git clone https://github.com/Azam-aa/tailor-connect.git`
+    * **When to use:** To get a copy of an existing project.
