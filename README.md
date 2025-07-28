@@ -19,3 +19,10 @@
     git commit -m "Initial commit of project files"
     # The message in quotes should be a concise description of the changes.
     ```
+
+4.  **Connect your local repository to a remote GitHub repository:**
+    *(First, create an empty repository on GitHub and copy its URL.)*
+    ```bash
+    git remote add origin [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    # 'origin' is a conventional name for your primary remote repository.
+    ```
