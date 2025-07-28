@@ -26,3 +26,10 @@
     git remote add origin [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
     # 'origin' is a conventional name for your primary remote repository.
     ```
+
+5.  **Push your local commits to the remote GitHub repository:**
+    ```bash
+    git push -u origin main
+    # '-u origin main' sets up the 'main' branch on 'origin' as the default upstream branch.
+    # Subsequent pushes can just be 'git push'. (Note: 'main' is now preferred over 'master'.)
+    ```
